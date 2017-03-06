@@ -13,7 +13,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/pelletier/go-buffruneio"
+	"github.com/agato/go-buffruneio"
 )
 
 var dateRegexp *regexp.Regexp
