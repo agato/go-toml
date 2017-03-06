@@ -1,0 +1,5 @@
+package: agato/go-toml
+import:
+- package: github.com/BurntSushi/toml
+- package: github.com/agato/go-buffruneio
+- package: github.com/agato/go-toml

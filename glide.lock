@@ -1,0 +1,12 @@
+hash: 265b5b91e809f10f6c3a592fc96351c4d15064d9b7fbb6307adaa5900f427a2b
+updated: 2017-03-06T15:36:19.047234877+09:00
+imports:
+- name: agato/go-toml
+  version: ""
+- name: github.com/agato/go-buffruneio
+  version: 82c783e939bf0028c553487ec0b941367c853725
+- name: github.com/agato/go-toml
+  version: 95c5af8bab46975b3a0a23959a1c5d8fb8716e3f
+- name: github.com/BurntSushi/toml
+  version: 99064174e013895bbd9b025c31100bd1d9b590ca
+devImports: []

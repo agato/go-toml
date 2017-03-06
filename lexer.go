@@ -218,7 +218,7 @@ func (l *tomlLexer) lexRvalue() tomlLexStateFn {
 			l.next()
 			break
 		}
-
+		//Peekここで
 		possibleDate := string(l.input.Peek(35))
 		dateMatch := dateRegexp.FindString(possibleDate)
 		if dateMatch != "" {
